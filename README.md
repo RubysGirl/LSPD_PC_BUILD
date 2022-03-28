@@ -1,4 +1,4 @@
-# LSPD_PC
+# LSPD_PC par Kyooouuuu
 
 Ce logiciel permet de faire les mises en détentions/appel avocat/avis de recherche/avertissements/saisie de drogue
 
