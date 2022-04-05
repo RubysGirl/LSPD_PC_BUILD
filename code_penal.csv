@@ -43,16 +43,18 @@ Port du gilet pare balle (Délit mineur);9500;30;0
 Possession de gilet pare balle (Délit mineur);1000;15;1
 Possession de d’objets illégaux cagoules, serflex (Délit Mineur);8000;25;0
 Exhibition d'arme factice (Contravention);2000;0;0
-Exhibition d'arme de catégorie A (Délit mineur);2000;10;0
+Exhibition d'arme de catégorie A (Délit mineur++);2000;10;0
 Exhibition d'arme de catégorie B (Délit mineur);15000;25;0
 Exhibition d'arme de catégorie C (Délit majeur);17500;35;0
 Exhibition d'arme de catégorie D (Délit majeur);35000;45;0
 Exhibition d'arme de catégorie E (Crime);45000;90;0
-Possession illégale d'arme de catégorie B,C (Délit mineur);15000;40;1
-Possession illégale d'arme de catégorie D,E (Délit majeur);25000;60;1
+Possession illégale d'arme de catégorie B (Délit mineur);25000;40;1
+Possession illégale d'arme de catégorie C (Délit majeur);50000;70;1
+Possession illégale d'arme de catégorie D (Crime);75000;120;1
+Possession illégale d'arme de catégorie E (Crime++);100000;60;1
 Trafic d'armes de catégorie B,C (CRIME++);150000;120;0
 Trafic d'armes de catégorie D,E (CRIME++);300000;180;0
-Complicité de trafic d'arme (Délit majeur);100000;45;0
+Complicité de trafic d'arme (Crime);100000;45;0
 ★彡彡 Article 3 - Atteinte à la personne ミミ★;0;0;0
 ------Violence physique----------;0;0;0
 Violence physique légères (Contravention);2500;0;0
@@ -221,9 +223,9 @@ Trouble à l'orde publique (Délit mineur);50000;35;0
 ;0;0;0
 Mendicité (Délit mineur);2000;10;0
 Vagabondage (Délit mineur);2000;10;0
-Grabuge(Délit mineur);2000;10;0
-Filoutrie;2000 (Délit mineur);10;0
-Crapûlerie;2000 (Délit mineur);10;0
+Grabuge (Délit mineur);2000;10;0
+Filoutrie (Délit mineur);5000;20;0
+Crapûlerie (Délit mineur);5000;20;0
 Braconnage (Délit mineur);2000;10;0
 Participation à une course illégale (Contravention);20000;0;0
 Organisation d'une course illégale (Délit mineur);80000;35;0
