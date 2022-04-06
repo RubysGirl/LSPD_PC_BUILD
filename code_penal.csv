@@ -42,13 +42,14 @@ Blanchiment (Délit majeur)somme+15%;0;25;1
 Port du gilet pare balle (Délit mineur);9500;30;0
 Possession de gilet pare balle (Délit mineur);1000;15;1
 Possession de d’objets illégaux cagoules, serflex (Délit Mineur);8000;25;0
+Trafic de gilet par balle illégaux (Crime);120000;120;0
 Exhibition d'arme factice (Contravention);2000;0;0
-Exhibition d'arme de catégorie A (Délit mineur++);2000;10;0
-Exhibition d'arme de catégorie B (Délit mineur);15000;25;0
+Exhibition d'arme de catégorie A (Délit mineur);2000;10;0
+Exhibition d'arme de catégorie B (Délit mineur++);15000;25;0
 Exhibition d'arme de catégorie C (Délit majeur);17500;35;0
 Exhibition d'arme de catégorie D (Délit majeur);35000;45;0
 Exhibition d'arme de catégorie E (Crime);45000;90;0
-Possession illégale d'arme de catégorie B (Délit mineur);25000;40;1
+Possession illégale d'arme de catégorie B (Délit mineur++);25000;40;1
 Possession illégale d'arme de catégorie C (Délit majeur);50000;70;1
 Possession illégale d'arme de catégorie D (Crime);75000;120;1
 Possession illégale d'arme de catégorie E (Crime++);100000;60;1
@@ -100,7 +101,7 @@ Espionnage au deuxième degré; (Délit mineur)17000;30;0
 Espionnage au troisième degré (Délit majeur);32500;50;0
 =========Atteinte à la vie==========;0;0;0
 ----Atteinte à la personne----;0;0;0
-Mise en danger de la vie d'autruie (Délit mineur);3500;10;0
+Mise en danger de la vie d'autruie (Délit mineur++);5500;10;0
 Incitation au sucide (Délit majeur);45000;45;0
 Non assistance à personne en danger (Délit mineur);10000;15;0
 Complicité de Tentative de Meurtre (Délit Majeur);20000;20;0
@@ -138,16 +139,16 @@ Assassinat sur Magistrat (CRIME++);1000000;0;0
 Vol de véhicule (Délit mineur);15000;25;0
 Vol au premier degrès (Délit mineur);3000;15;0
 Complicité de vol au premier degrès (Delit mineur);1500;10;0
-Vol au deuxième dergès (Délit mineur);4500;15;0
-Complicité de vol au deuxième degrès (Délit mineur);2500;10;0
+Vol au deuxième dergès (Délit mineur++);8500;15;0
+Complicité de vol au deuxième degrès (Délit mineur++);5500;10;0
 Vol au troisième de degrès (Délit majeur);5500;20;0
 Complicité de vol au troisième degrès (Délit majeur);3500;15;0
 Braquage de supérette (Délit mineur);15000;20;0
 Braquage de supérette au second degrés (Délit mineur);30000;40;0
 Braquage de banque (Délit majeur);45000;45;0
-Braquage de banque au second degrés (Délit majeur);90000;90;0
+Braquage de banque au second degrés (Délit majeur);150000;90;0
 Braquage de bijouterie (Délit Majeur);50000;50;0
-Braquage de bijouterie au second degrés (Délit Majeur);100000;90;0
+Braquage de bijouterie au second degrés (Délit Majeur);160000;90;0
 Braquage de civil (Délit mineur);15000;20;0
 Braquage de civil au second degrés (Délit mineur);30000;40;0
 ;0;0;0
